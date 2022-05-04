@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(159, 124, 192);
+    font-size: 24px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: white;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+.baslik {
+    font-size: 80px;
+    color:blue;
+}
+
+.golden-state {
+    color:yellow;
+    font-size: 50px;
+} 
+
+.nets {
+    color: brown;
+    font-size: 50px;
+} 
+
+.lakers {
+    color: purple;
+    font-size: 50px;
+} 
+
+ul {
+    list-style-type: circle;
+    margin: 0px;
+    padding: 0px;
+}
+
+ol {
+    list-style-type: circle;
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    width: 200px;
+}
+
+#logo-width {
+    width: 400px;
+}
+
+
+
